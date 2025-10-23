@@ -1,0 +1,5 @@
+{
+  "name": "StyleMix Studio",
+  "description": "An advanced virtual try-on app that uses AI to combine clothing items, accessories, and a scene description into a single, photorealistic image. Users can upload their own photo or have an AI model generated. It also includes features for AI-powered image generation and editing.",
+  "requestFramePermissions": []
+}
